@@ -4,6 +4,11 @@
       "nombre": "Gatogordo",
       "email": "gatogordo@gmail.com",
       "id": 1
+    },
+    {
+      "nombre": "Cliente Nuevo",
+      "email": "clienteprueba@hotmail.com",
+      "id": "120ad382-1885-40e8-aa32-10d041719b18"
     }
   ]
 }
